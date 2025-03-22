@@ -15,7 +15,7 @@ Description: A free software for a fast and easy analysis of 1:1 molecular inter
    and it takes care of all fitting details.
    The first two releases of 'anabel' were created and implemented as in 
    (<doi:10.1177/1177932218821383>, <doi:10.1093/database/baz101>).
-License: GPL-3 + file LICENSE
+License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
